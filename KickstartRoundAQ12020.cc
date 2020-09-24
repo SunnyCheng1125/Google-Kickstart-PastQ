@@ -18,7 +18,7 @@ int main() {
         }
         sort(price.begin(), price.end());
         for (int j = 0; j < price.size(); j++) {
-            if (price[j] < budget) {
+            if (price[j] <= budget) {
                 if (((accumulate(efHouse.begin(), efHouse.end(), 0)) + price[j]) <= budget) {
                     efHouse.push_back(price[j]);
                 }
