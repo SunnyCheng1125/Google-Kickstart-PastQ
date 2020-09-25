@@ -33,14 +33,14 @@ Test set 2<br/>
 Sample<br/>
 5<br/>
 4 100<br/>
-20 90 40 90               Case #1: 2<br/>
+20 90 40 90               &nbsp;&nbsp;&nbsp;Case #1: 2<br/>
 4 50<br/>
-30 30 10 10               Case #2: 3<br/>
+30 30 10 10               &nbsp;&nbsp;&nbsp;Case #2: 3<br/>
 3 300<br/>
-999 999 999               Case #3: 0<br/>
+999 999 999               &nbsp;&nbsp;&nbsp;Case #3: 0<br/>
 10 100<br/>
-1 2 3 4 5 6 7 8 9 10      Case #4: 10<br/>
-2 1000                    Case #5: 1<br/>
+1 2 3 4 5 6 7 8 9 10      &nbsp;&nbsp;&nbsp;Case #4: 10<br/>
+2 1000                    &nbsp;&nbsp;&nbsp;Case #5: 1<br/>
 999 2<br/><br/>
 
 
