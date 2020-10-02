@@ -1,6 +1,3 @@
-# Google-Kickstart-PastQ<br/>
-It records some of the past Google Kick Start questions and my solution (in C++)<br/>
-
 #1 RoundA Q1: Allocation
 The original question page:<br/>
 https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f56<br/><br/>
