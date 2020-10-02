@@ -35,4 +35,4 @@ Sample<br/>
 3 3<br/>
 2 7 4               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Case #1: 1 3 2<br/>
 5 6<br/>
-9 10 4 7 2          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Case #2: 3 5 1 2 4<br/>
+9 10 4 7 2          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Case #2: 3 5 1 2 4<br/>
